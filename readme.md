@@ -1,3 +1,7 @@
+## Screenshot:
+![nodejs-resat-api](https://user-images.githubusercontent.com/15269933/170435878-71658bae-b1ad-45b1-bff4-fd62adee73ae.png)
+
+
 # Vanilla Node REST API
 
 > Full CRUD REST API using Node.js with no framework
